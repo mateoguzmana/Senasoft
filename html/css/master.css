@@ -1,0 +1,69 @@
+body{
+  overflow-x: hidden;
+  padding-top: 55px;
+}
+
+section{
+  min-height: 92vh;
+  max-height: 92vh;
+}
+
+#login{
+  padding-top: 20vh;
+
+}
+#home{
+  padding-top: 40vh;
+}
+#checkin{
+  padding-top: 12vh;
+}
+#reportes{
+  padding-top: 10vh;
+}
+
+#ciudades{
+  padding-top: 20vh;
+}
+#departamentos{
+  padding-top: 20vh;
+}
+#alojamientos{
+  padding-top: 12vh;
+}
+#fincas{
+  padding-top: 10vh;
+}
+
+#huespedes{
+  padding: 10vh 0 30vh 0;
+}
+.espacio-tablas{
+  padding-top: 20vh;
+}
+
+#footer{
+  margin: 0;
+  padding: 8px 0 8px 0;
+  background-color: rgb(10, 10, 10);
+  color: rgb(240, 240, 240);
+}
+
+#todo-navbar a{
+  color: white;
+}
+#dropdown-navbar1 a{
+  color: gray;
+}
+#paute{
+  padding-top: 12vh;
+}
+
+#pauta-izquierda,#pauta-derecha{
+  padding-top: 10vh;
+}
+
+.anuncio{
+  padding: 5px 10px 5px 10px;
+  margin: 0;
+}
